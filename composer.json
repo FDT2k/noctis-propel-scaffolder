@@ -1,0 +1,25 @@
+{
+    "name": "fdt2k/noctis-propel-scaffolder",
+    "version":"1.0",
+    "description": "Propel scaffolder for Noctis framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Di Tore",
+            "email": "fabien@ditore.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "GKA\\Noctis\\Service\\Propel\\Scaffolder": "src/"
+        },
+        "files":[
+          "src/autoload.php"
+        ]
+    },
+    "require": {
+      
+        "fdt2k/noctis-propel-service": "*",
+    }
+}
