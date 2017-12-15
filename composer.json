@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "GKA\\Noctis\\Service\\Propel\\Scaffolder": "src/"
+            "GKA\\Noctis\\Service\\Propel\\Scaffolder\\": "src/"
         },
         "files":[
           "src/autoload.php"
