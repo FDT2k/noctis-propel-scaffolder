@@ -19,7 +19,7 @@
         ]
     },
     "require": {
-      
-        "fdt2k/noctis-propel-service": "*",
+
+        "fdt2k/noctis-propel-service": "*"
     }
 }
